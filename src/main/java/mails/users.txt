@@ -1,0 +1,7 @@
+1,fabiorossi@gmail.com,1234
+2,lucabianchi@gmail.com,1234
+3,giuseppemarino@gmail.com,1234
+4,a@a.a,a
+5,a@b.c,d
+6,claraverdi@gmail.com,12345
+7,b@z.z,z

@@ -1,0 +1,187 @@
+.background{
+    -fx-background-color: white;
+}
+.buttonMailView{
+    -fx-background-color: #fc5b5b;
+    -fx-background-insets: 0,1,2;
+    -fx-background-radius: 15;
+    -fx-padding: 3 10 3 10;
+    -fx-text-fill: #ffffff;
+    -fx-font-family: "Poppins";
+    -fx-font-size: 12px;
+
+}
+
+
+.buttonMailView:hover {
+    -fx-background-color: #ff2828;
+    -fx-text-fill: #ffffff;
+}
+
+.buttonMailViewNewMail {
+    -fx-background-color: #fc5b5b;
+    -fx-background-insets: 0,1,2;
+    -fx-background-radius: 5;
+    -fx-padding: 5 15 5 15;
+    -fx-text-fill: #ffffff;
+    -fx-font-family: "Poppins";
+    -fx-font-size: 15px;
+}
+.buttonMailViewNewMail:hover{
+    -fx-background-color: #ff2828;
+    -fx-text-fill: #ffffff;
+}
+
+.buttonMailViewRefresh {
+    -fx-background-color: #fc5b5b;
+    -fx-background-insets: 0,1,2;
+    -fx-background-radius: 15;
+    -fx-padding: 3 10 3 10;
+    -fx-text-fill: #ffffff;
+    -fx-font-family: "Poppins";
+    -fx-font-size: 12px;
+}
+.buttonMailViewRefresh:hover{
+    -fx-background-color: #ff2828;
+    -fx-text-fill: #ffffff;
+}
+
+.labelMailView {
+    -fx-font-weight: 700;
+    -fx-font-size: 14px;
+    -fx-font-family: "Poppins";
+}
+.labelMailView1 {
+    -fx-font-weight: 300;
+    -fx-font-size: 14px;
+    -fx-font-family: "Poppins";
+}
+
+.listViewMailView {
+    -fx-font-weight: 300;
+    -fx-font-size: 14px;
+    -fx-font-family: "Poppins";
+}
+
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: linear-gradient(#ff5959 0%, #fc4949 25%, #ff3737 75%, #ff2828 100%);
+    -fx-text-fill: white;
+}
+
+.list-cell:even {
+    -fx-background-color: #e8e7e7;
+}
+.list-cell:odd {
+    -fx-background-color: #f1f0f0;
+}
+
+.separatorMailView {
+
+}
+
+.campoTesto{
+    -fx-background-color: white;
+    -fx-border-color: #b3b3b3;
+    -fx-border-radius: 10;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn-toolset {
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    color: #FFFFFF;
+    text-decoration: none;
+    line-height: 1.2;
+    font-weight: normal;
+    font-family: sans-serif;
+    font-size: 18px;
+    background-color: #FF0000;
+    border-radius: 30px;
+    padding: 9px 31px;
+    border: 2px solid #FFFFFF;
+    cursor: pointer;
+}
+.btn-toolset:hover {
+    background-color: #FF5C31;
+    border-color: #B3B3B3;
+}
+.btn-toolset > strong {
+    font-size: 14px;
+}
+.scritta{
+    -fx-font-family: "Roboto Light";
+    -fx-font-size: 11pt;
+    -fx-text-fill: #000000;
+}
+
+.scrittaHeader{
+    -fx-font-weight: bold;
+}
+
+.btn{
+    -fx-background-color: transparent;
+    -fx-background-insets: 0,1,2;
+    -fx-background-radius: 10;
+    /*-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );*/
+    -fx-padding: 3 30 3 30;
+    -fx-text-fill: black;
+    -fx-font-family: "Roboto Light";
+    -fx-font-size: 12px;
+    -fx-opacity: 0.7;
+}
+
+
+.btn:hover {
+    -fx-background-color: transparent;
+    -fx-opacity: 1;
+}
+
+.btnBig{
+    -fx-background-color: #588B8B;
+    -fx-background-insets: 0,1,2;
+    -fx-background-radius: 10;
+    /*-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );*/
+    -fx-padding: 3 30 3 30;
+    -fx-text-fill: black;
+    -fx-font-family: "Roboto Light";
+    -fx-font-size: 12px;
+}
+
+
+.btnBig:hover {
+    -fx-background-color: #7FADAD;
+}
+
+
+.background{
+    -fx-background-color: white;
+}
+
+.campoTesto{
+    -fx-background-color: white;
+    -fx-border-color: #b3b3b3;
+    -fx-border-radius: 10;
+}
+
+.text-area{
+    text-area-background: white;
+}
+
+
+.text-area .content {
+    -fx-background-color: text-area-background ;
+}
+

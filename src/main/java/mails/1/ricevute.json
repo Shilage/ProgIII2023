@@ -1,0 +1,4 @@
+[{"id":0,"mittente":"lucabianchi@gmail.com","destinatari":["fabiorossi@gmail.com"],"oggetto":"RE:Prova finale","testo":"Ciao luca, vediamo se ricevi questa mail!\n\n________\nFabio, se ricevi questa mail rispondi a me e a giuseppe!\n","data":"07/05/2023 09:42:38"}
+,{"id":1,"mittente":"giuseppemarino@gmail.com","destinatari":["fabiorossi@gmail.com"," lucabianchi@gmail.com"],"oggetto":"RE:Ciao!","testo":"SI mi è arrivata!","data":"07/05/2023 10:23:50"},
+  {"id":2,"mittente":"lucabianchi@gmail.com","destinatari":["giuseppemarino@gmail.com","fabiorossi@gmail.com"," lucabianchi@gmail.com"," claraverdi@gmail.com"],"oggetto":"Basta spam!","testo":"Ho capito che è arrivata, basta spammare!","data":"07/05/2023 10:24:55"},
+  {"id":3,"mittente":"giuseppemarino@gmail.com","destinatari":["lucabianchi@gmail.com","fabiorossi@gmail.com"," claraverdi@gmail.com"],"oggetto":"Ciao","testo":"Ciao ciao ciao","data":"08/05/2023 16:53:44"}]

@@ -1,0 +1,20 @@
+.listServer {
+    -fx-font-weight: 300;
+    -fx-font-size: 14px;
+    -fx-font-family: "Poppins";
+}
+
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: #000000;
+    -fx-text-fill: #16ff38;
+}
+
+.list-cell:even {
+    -fx-background-color: #000000;
+    -fx-text-fill: #16ff38;
+}
+.list-cell:odd {
+    -fx-background-color: #000000;
+    -fx-text-fill: #16ff38;
+}
+
